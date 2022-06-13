@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d uus märguanne</item>
+    <item quantity="other">%d uut märguannet</item>
+  </plurals>
+    <string name="FaceTec_accessibility_cancel_button">Tühista</string>
+    <string name="FaceTec_accessibility_torch_button">Lülita valgus sisse/välja</string>
+    <string name="FaceTec_action_accept_photo">Aktsepteeri</string>
+    <string name="FaceTec_action_im_ready">Olen valmis</string>
+    <string name="FaceTec_action_ok">OK</string>
+    <string name="FaceTec_action_retake_photo">Proovi uuesti</string>
+    <string name="FaceTec_action_select_id_card">FOTO ID</string>
+    <string name="FaceTec_action_select_passport">PASS</string>
+    <string name="FaceTec_action_take_photo">Tee pilti</string>
+    <string name="FaceTec_action_try_again">PROOVI UUESTI</string>
+    <string name="FaceTec_camera_permission_enable_camera">LUBAB KAAMERA</string>
+    <string name="FaceTec_camera_permission_header">Lülita kaamera sisse</string>
+    <string name="FaceTec_camera_permission_launch_settings">KÄIVITA SEADED</string>
+    <string name="FaceTec_camera_permission_message_enroll">Palun lülita oma selfie kaamera sisse.</string>
+    <string name="FaceTec_feedback_center_face">Aseta nägu keskele</string>
+    <string name="FaceTec_feedback_face_not_found">Aseta nägu raamidesse</string>
+    <string name="FaceTec_feedback_face_not_looking_straight_ahead">Vaata otse</string>
+    <string name="FaceTec_feedback_face_not_upright">Hoia oma pea sirgelt</string>
+    <string name="FaceTec_feedback_hold_steady">Ära liiguta</string>
+    <string name="FaceTec_feedback_move_phone_away">Mine kaugemale</string>
+    <string name="FaceTec_feedback_move_phone_closer">Tule lähemale</string>
+    <string name="FaceTec_feedback_move_phone_even_closer">Veel lähemale</string>
+    <string name="FaceTec_feedback_move_phone_to_eye_level">Tõsta kaamera silmade kõrgusele</string>
+    <string name="FaceTec_feedback_use_even_lighting">Kerge nägu ühtlasem</string>
+    <string name="FaceTec_idscan_capture_hold_steady_message">Ära liiguta</string>
+    <string name="FaceTec_idscan_capture_id_card_back_instruction_message">Näita fotoga dokumendi tagakülge</string>
+    <string name="FaceTec_idscan_capture_id_card_front_instruction_message">Näita fotoga dokumendi esikülge</string>
+    <string name="FaceTec_idscan_capture_passport_instruction_message">Näita passi fotoga lehte</string>
+    <string name="FaceTec_idscan_capture_tap_to_focus_message">Fokuseerimiseks toksa ekraanile</string>
+    <string name="FaceTec_idscan_review_id_card_back_instruction_message">Kinnita, et foto on selge ja loetav</string>
+    <string name="FaceTec_idscan_review_id_card_front_instruction_message">Kinnita, et foto on selge ja loetav</string>
+    <string name="FaceTec_idscan_review_passport_instruction_message">Kinnita, et foto on selge ja loetav</string>
+    <string name="FaceTec_idscan_type_selection_header">Palun valige oma isikut\n tõendava dokumendi tüüp</string>
+    <string name="FaceTec_instructions_header_ready_1">Olge valmis</string>
+    <string name="FaceTec_instructions_header_ready_2">Teie videoselfi</string>
+    <string name="FaceTec_instructions_message_ready_1">Palun aseta oma nägu väiksesse ovaali</string>
+    <string name="FaceTec_instructions_message_ready_2">siis suurde</string>
+    <string name="FaceTec_presession_brighten_your_environment">Helendage oma keskkonda</string>
+    <string name="FaceTec_presession_conditions_too_bright">Tingimused liiga heledad</string>
+    <string name="FaceTec_presession_eyes_straight_ahead">Vaata otse</string>
+    <string name="FaceTec_presession_frame_your_face">Sobitage oma nägu ovaalsesse raami</string>
+    <string name="FaceTec_presession_hold_steady_1">Püsige paigal: 1</string>
+    <string name="FaceTec_presession_hold_steady_2">Püsige paigal: 2</string>
+    <string name="FaceTec_presession_hold_steady_3">Püsige paigal: 3</string>
+    <string name="FaceTec_presession_neutral_expression">Neutraalne ilme, naeratuseta</string>
+    <string name="FaceTec_presession_position_face_straight_in_oval">Vaadake otse ette</string>
+    <string name="FaceTec_presession_remove_dark_glasses">Eemaldage tumedad prillid</string>
+    <string name="FaceTec_result_facescan_upload_message">Krüpteeritud\n 3D Näo Scani\n üleslaadimine</string>
+    <string name="FaceTec_result_idscan_unsuccess_message">ID foto ja nägu \nei sobi kokku</string>
+    <string name="FaceTec_result_idscan_upload_message">Krüpteeritud\n ID Scani\n üleslaadimine</string>
+    <string name="FaceTec_result_success_message">Valmis</string>
+    <string name="FaceTec_retry_header">Proovi uuesti</string>
+    <string name="FaceTec_retry_ideal_image_label">Ideaalne asend</string>
+    <string name="FaceTec_retry_instruction_message_1">Neutraalne nägu, ära naerata</string>
+    <string name="FaceTec_retry_instruction_message_2">Veendu, et valgus ei ole liiga pime või liiga hele</string>
+    <string name="FaceTec_retry_instruction_message_3"/>
+    <string name="FaceTec_retry_subheader_message">Esmalt palun vaadake oma fotot ja korrastage ümbrust</string>
+    <string name="FaceTec_retry_your_image_label">Sinu selfie</string>
+    <string name="IDENFY_FACE_LIVENESS_MESSAGE">Elavuse kontroll ebaõnnestus liiga palju kordi</string>
+    <string name="IDENFY_NFC_FAILED_MESSAGE">NFC authentication failed!</string>
+    <string name="IDENFY_SERVER_ERROR_MESSAGE">Ups! Midagi läks valesti.</string>
+    <string name="IDENFY_TOKEN_NOT_VALID_MESSAGE">Sessioon on aegunud!</string>
+    <string name="IDENFY_TOO_MANY_REATTEMPTS_MESSAGE">Liiga palju katseid!</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Liigu avalehele"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Liigu üles"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Rohkem valikuid"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Kuva kõik"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Valige rakendus"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"VÄLJAS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"SEES"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"kustuta"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"sisestusklahv"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktsiooniklahv +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Tõstuklahv +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"tühik"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menüü +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Otsige …"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Päringu tühistamine"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Otsingupäring"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Otsing"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Päringu esitamine"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Häälotsing"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Jaga:"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Jagamine rakendusega <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ahendamine"</string>
+    <string name="bottomsheet_action_expand_halfway">Laiendamine poolenisti</string>
+    <string name="character_counter_content_description">Sisestatud tähemärgid: %1$d/%2$d</string>
+    <string name="character_counter_overflowed_content_description">Tähemärgipiirang on ületatud: %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Kustuta tekst</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Luba"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult siis, kui lubate Google Play teenused."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play teenuste lubamine"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installi"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida teie seadmes pole."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play teenuste hankimine"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play teenuste saadavalolek"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Viga Google Play teenustes"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Rakendusel <ns1:g id="APP_NAME">%1$s</ns1:g> on probleeme Google Play teenustega. Proovige uuesti."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida teie seadmes ei toetata."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Värskenda"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Rakenduse <ns1:g id="APP_NAME">%1$s</ns1:g> töötamiseks peate värskendama Google Play teenuseid."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play teenuste värskendamine"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult koos Google Play teenustega, mida praegu värskendatakse."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Vajalik on Google Play teenuste uus versioon. See värskendab end peagi."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Ava telefonis"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Logi sisse"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Logi sisse Google\'i kontoga"</string>
+    <string name="error_icon_content_description">Viga</string>
+    <string name="exposed_dropdown_menu_content_description">Kuva rippmenüü</string>
+    <string name="icon_content_description">Dialoogi ikoon</string>
+    <string name="idenfy_alert_message_abort_identification_information">Kas oled kindel, et tahad tuvastamist katkestada?</string>
+    <string name="idenfy_alert_message_document_analysis_information">Ei saanud dokumendi liiki tuvastada. Palun vali dokumendi liik järgmises sammus</string>
+    <string name="idenfy_alert_message_liveness_default_error">Elavuse test ebaõnnestus, palun proovi uuesti.</string>
+    <string name="idenfy_alert_message_liveness_face_timeout_error">Näo elavuse testi aeg sai läbi. Palun proovi uuesti.</string>
+    <string name="idenfy_alert_message_manual_reviewing_information">Kuna valisite muu dokumendi kui ID-kaart või pass, peame teie juhtumi veel kord üle vaatama.</string>
+    <string name="idenfy_alert_message_manual_reviewing_status_waiting_stop_waiting_information">Are you sure you want to abort verification?</string>
+    <string name="idenfy_alert_message_manual_reviewing_status_waiting_terminate_information">Kas oled kindel, et tahad tuvastamist katkestada?</string>
+    <string name="idenfy_alert_message_restart_identification_information">Kas oled kindel, et tahad uuesti alustada?</string>
+    <string name="idenfy_alert_negative_button_abort_identification_information">EI</string>
+    <string name="idenfy_alert_negative_button_manual_reviewing_status_waiting_stop_waiting_information">NO</string>
+    <string name="idenfy_alert_negative_button_manual_reviewing_status_waiting_terminate_information">EI</string>
+    <string name="idenfy_alert_negative_button_restart_identification_information">EI</string>
+    <string name="idenfy_alert_positive_button_abort_identification_information">JAH</string>
+    <string name="idenfy_alert_positive_button_document_analysis_information">Jätka</string>
+    <string name="idenfy_alert_positive_button_liveness_default_error">Jätka</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_information">Jätka</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_status_waiting_stop_waiting_information">YES</string>
+    <string name="idenfy_alert_positive_button_manual_reviewing_status_waiting_terminate_information">JAH</string>
+    <string name="idenfy_alert_positive_button_restart_identification_information">JAH</string>
+    <string name="idenfy_alert_title_abort_identification_information">Katkesta tuvastamine</string>
+    <string name="idenfy_alert_title_document_analysis_information">MIDAGI LÄKS VALESTI!</string>
+    <string name="idenfy_alert_title_liveness_default_error">TEAVE</string>
+    <string name="idenfy_alert_title_manual_reviewing_information">TEAVE</string>
+    <string name="idenfy_alert_title_manual_reviewing_status_waiting_stop_waiting_information">Abort verification</string>
+    <string name="idenfy_alert_title_manual_reviewing_status_waiting_terminate_information">Katkesta tuvastamine</string>
+    <string name="idenfy_alert_title_restart_identification_information">Alusta uuesti</string>
+    <string name="idenfy_camera_permissions_view_goto_settings_button_title_v2">AVA SEADED</string>
+    <string name="idenfy_camera_permissions_view_guidance_information_description_v2">Ava seaded, toksa “Rakenduse load”, et võimaldada juurdepääsu kaamerale</string>
+    <string name="idenfy_camera_permissions_view_information_description_v2">Me peame kasutama sinu kaamerat, et teha foto teie dokumendist ja näofoto tegemiseks</string>
+    <string name="idenfy_camera_permissions_view_information_title_v2">Kas me võime sinu kaamerat kasutada?</string>
+    <string name="idenfy_common_title_navigation_back">Tagasi</string>
+    <string name="idenfy_confirmation_view_begin_identification_title_v2">ALUSTA TUVASTAMIST</string>
+    <string name="idenfy_confirmation_view_document_steps_step_back_title_v2">Dokumendi tagakülje pilt</string>
+    <string name="idenfy_confirmation_view_document_steps_step_face_title_v2">Näo pilt</string>
+    <string name="idenfy_confirmation_view_document_steps_step_front_title_v2">Dokumendi esikülje pilt</string>
+    <string name="idenfy_confirmation_view_document_steps_step_liveliness_title_v2">Elavuse kontroll</string>
+    <string name="idenfy_confirmation_view_document_steps_step_passport_cover_title_v2">Passi kaane foto</string>
+    <string name="idenfy_confirmation_view_document_steps_step_proof_of_address_title_v2">Aadressi tõendava dokumendi foto</string>
+    <string name="idenfy_confirmation_view_document_steps_step_second_proof_of_address_title_v2">Teise adressi tõendava dokumendi foto</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_1_v2">Tuvastamiseks kulub</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_2_v2">5</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_3_v2">sammu:</string>
+    <string name="idenfy_confirmation_view_document_steps_title_part_placeholder_v2">Isikusamasuse tuvastamiseks kulub **5** sammu:</string>
+    <string name="idenfy_confirmation_view_information_description_part_1_v2">Palun pane oma</string>
+    <string name="idenfy_confirmation_view_information_description_part_3_v2">tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_description_type_driver_licence_placeholder_v2">Palun pane oma **juhiluba** tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_description_type_id_card_description_placeholder_v2">Palun pane oma **ID-kaart** tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_description_type_other_placeholder_v2">Palun pane oma **dokument** tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_description_type_passport_description_placeholder_v2">Palun pane oma **pass** tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_description_type_residence_permit_placeholder_v2">Palun pane oma **elamisluba** tuvastamiseks valmis</string>
+    <string name="idenfy_confirmation_view_information_document_type_driver_licence_description_part_2_v2">juhiluba</string>
+    <string name="idenfy_confirmation_view_information_document_type_id_card_description_part_2_v2">ID-kaart</string>
+    <string name="idenfy_confirmation_view_information_document_type_other_description_part_2_v2">dokument</string>
+    <string name="idenfy_confirmation_view_information_document_type_passport_description_part_2_v2">pass</string>
+    <string name="idenfy_confirmation_view_information_document_type_residence_permit_description_part_2_v2">elamisluba</string>
+    <string name="idenfy_confirmation_view_information_title_v2">Kinnita dokumendi tüüp</string>
+    <string name="idenfy_confirmation_view_upload_image_title_v2">Fotosid saad üles laadida igal sammul</string>
+    <string name="idenfy_country_selection_view_information_description_v2">Palun vali oma dokumendi väljastanud riik</string>
+    <string name="idenfy_country_selection_view_information_title_v2">Vali väljaandja riik</string>
+    <string name="idenfy_country_selection_view_searchbar_hint_v2">Otsi dokumendi riiki…</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_button_title">JÄTKE JUHISED JÄTTA</string>
+    <string name="idenfy_document_and_face_camera_preview_session_information_instructions_dialog_title">Kuidas tuvastada?</string>
+    <string name="idenfy_document_and_face_camera_results_button_next_step_title_v2">JAH, JÄTKA</string>
+    <string name="idenfy_document_and_face_camera_results_button_retake_photo_title_v2">TEE UUS PILT</string>
+    <string name="idenfy_document_and_face_camera_results_document_analysis_description">Palun oota üks hetk.</string>
+    <string name="idenfy_document_and_face_camera_results_document_analysis_title">Analüüsimine…</string>
+    <string name="idenfy_document_and_face_camera_results_powered_by_idenfy_card_title_v2">Powered by iDenfy</string>
+    <string name="idenfy_document_and_face_camera_results_title_v2">Kontrolli fotot</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_file_type_alert_description_v2_default">Millist failitüüpi soovite üles laadida?</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_file_type_alert_title_v2_default">Palun valige failitüüp</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_image_file_type_alert_title_v2_default">Foto</string>
+    <string name="idenfy_document_camera_preview_session_view_details_upload_pdf_file_type_alert_title_v2_default">PDF</string>
+    <string name="idenfy_document_camera_preview_session_view_information_description_v2">Aseta oma dokument raami ja tee selge pilt</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_driver_license_title_v2">Juhiloa tagakülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_id_card_title_v2">ID-kaardi tagakülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_other_title_v2">Dokumendi tagakülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_back_document_type_residence_permit_title_v2">Elamisloa tagakülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_driver_license_title_v2">Juhiloa esikülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_id_card_title_v2">ID-kaardi esikülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_other_title_v2">Dokumendi esikülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_cover_title_v2">Passi esikaas</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_passport_title_v2">Passi isikuandmete lehekülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_proof_of_address_title_v2">Aadressi tõend</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_residence_permit_title_v2">Elamisloa esikülg</string>
+    <string name="idenfy_document_camera_preview_session_view_information_step_front_document_type_second_proof_of_address_title_v2">Teine aadressi tõend</string>
+    <string name="idenfy_document_camera_results_view_details_first_title_v2_back">Kas see on dokumendi tagakülg?</string>
+    <string name="idenfy_document_camera_results_view_details_first_title_v2_front">Kas sinu näo pilt on selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_details_pdf_title_v2_default">Kas olete kindel, et soovite selle faili üles laadida?</string>
+    <string name="idenfy_document_camera_results_view_details_second_title_v2_back">Kas saate dokumendi üksikasju selgelt lugeda?</string>
+    <string name="idenfy_document_camera_results_view_details_second_title_v2_front">Kas saad dokumendi detaile selgelt lugeda?</string>
+    <string name="idenfy_document_camera_results_view_details_title_v2_default">Kas saate dokumendi üksikasju selgelt lugeda?</string>
+    <string name="idenfy_document_camera_results_view_information_description_part_1_v2">Kas sinu</string>
+    <string name="idenfy_document_camera_results_view_information_description_part_3_v2">on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_part_2_v2">juhiloa tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_description_placeholder_v2">Kas sinu **juhiloa tagakülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_driver_license_title_v2">Juhiloa tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_part_2_v2">ID-kaardi tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_description_placeholder_v2">Kas sinu **ID-kaardi tagakülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_id_card_title_v2">ID-kaardi tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_description_part_2_v2">dokumendi tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_description_placeholder_v2">Kas sinu **dokumendi tagakülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_other_title_v2">Dokumendi tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_part_2_v2">elamisloa tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_description_placeholder_v2">Kas sinu **Elamisloa tagakülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_back_document_type_residence_permit_title_v2">Elamisloa tagakülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_face_description_placeholder_v2">Kas sinu **näo pilt** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_part_2_v2">juhiloa esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_description_placeholder_v2">Kas sinu **juhiloa esikülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_driver_license_title_v2">Juhiloa esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_part_2_v2">ID-kaardi esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_description_placeholder_v2">Kas sinu **ID-kaardi esikülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_id_card_title_v2">ID-kaardi esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_description_part_2_v2">dokumendi esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_description_placeholder_v2">Kas sinu **dokumendi esikülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_other_title_v2">Dokumendi esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_part_2_v2">passi esikaas</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_description_placeholder_v2">Kas sinu **passi esikaas** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_cover_title_v2">Passi esikaas</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_description_part_2_v2">passi isikuandmetega lehekülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_description_placeholder_v2">Kas sinu **passi fotoga lehekülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_passport_title_v2">Passi isikuandmete lehekülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_part_2_v2">aadressi tõend</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_description_placeholder_v2">Kas sinu **aadressi tõend** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_proof_of_address_title_v2">Aadressi tõend</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_part_2_v2">elamisloa esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_description_placeholder_v2">Kas sinu **elamisloa esikülg** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_residence_permit_title_v2">Elamisloa esikülg</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_part_2_v2">teine aadressi tõend</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_description_placeholder_v2">Kas sinu **teine aadressi tõend** on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_document_camera_results_view_information_step_front_document_type_second_proof_of_address_title_v2">Teine aadressi tõend</string>
+    <string name="idenfy_documents_selection_view_information_description_v2">Millist dokumenditüüpi soovid tuvastada?</string>
+    <string name="idenfy_documents_selection_view_information_title_v2">Vali dokument</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_driver_licence_title_v2">Juhiluba</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_id_card_title_v2">ID-kaart</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_other_title_v2">Muu</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_passport_title_v2">Pass</string>
+    <string name="idenfy_documents_selection_view_list_item_document_type_residence_permit_titlev2">Elamisluba</string>
+    <string name="idenfy_face_camera_preview_session_description_v2">Paiguta oma nägu tähistatud alasse ja tee selge foto</string>
+    <string name="idenfy_face_camera_preview_title_v2">Tee oma näost pilt</string>
+    <string name="idenfy_face_camera_results_description_v2">Kas sinu näo pilt on raamis ja selgelt nähtav?</string>
+    <string name="idenfy_face_camera_results_title_v2">Kinnita oma näo pilt</string>
+    <string name="idenfy_face_camera_results_view_details_first_title_v2">Kas sinu nägu on selgelt nähtav ja asub piisavalt lähedal tuvastamiseks?</string>
+    <string name="idenfy_identifiaction_results_success_fragment_identified_v2">Tuvastatud</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_country_part_v2"> Veenduge, et teie dokumendi väljaandmisriik oleks </string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_1_v2">Dokumenti ei leitud. Veenduge, et näitate </string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_document_v2">DOKUMENT</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_driver_license_v2">JUHILUBA</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_id_card_v2">ID -KAART</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_passport_v2">PASS</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_2_residence_permit_v2">ELAMISLUBA</string>
+    <string name="idenfy_identification_results_doc_not_found_dialog_description_part_3_v2"> ja dokumendi väljastamise riik on </string>
+    <string name="idenfy_identification_results_error_continue_button_title_v2">JÄTKA</string>
+    <string name="idenfy_identification_results_identification_status_error_title_v2">Tuvastamine ebaõnnestus</string>
+    <string name="idenfy_identification_results_identification_status_loading_description_v2">Palun oota, kuni me kõik sulle valmis seame!</string>
+    <string name="idenfy_identification_results_identification_status_loading_title_v2">Tõestamise analüüs…</string>
+    <string name="idenfy_identification_results_mrz_not_found_back_button_title_v2">MINE TAGASI</string>
+    <string name="idenfy_identification_results_mrz_not_found_continue_button_title_v2">OLEN KINDEL</string>
+    <string name="idenfy_identification_results_mrz_not_found_dialog_description_v2">Masinloetav ala (MRZ) koosneb tavaliselt kahest (pass) või kolmest (ID-kaart) sümbolireast. Masinloetava ala näide on esitatud alloleval pildil, tähistatud punase ristkülikuga.</string>
+    <string name="idenfy_identification_results_mrz_not_found_dialog_title_v2">Palun veenduge, et teie dokumendil oleks masinloetav ala</string>
+    <string name="idenfy_identification_results_retake_button_title_v2">PROOVI UUESTI</string>
+    <string name="idenfy_identification_results_step_back_document_type_driver_license_title_v2">Juhiloa tagakülg</string>
+    <string name="idenfy_identification_results_step_back_document_type_id_card_title_v2">ID-kaardi tagakülg</string>
+    <string name="idenfy_identification_results_step_back_document_type_other_title_v2">Dokumendi tagakülg</string>
+    <string name="idenfy_identification_results_step_back_document_type_residence_permit_title_v2">Elamisloa tagakülg</string>
+    <string name="idenfy_identification_results_step_face">Näo pilt</string>
+    <string name="idenfy_identification_results_step_front_document_type_driver_license_title_v2">Juhiloa esikülg</string>
+    <string name="idenfy_identification_results_step_front_document_type_id_card_title_v2">ID-kaardi esikülg</string>
+    <string name="idenfy_identification_results_step_front_document_type_other_title_v2">Dokumendi esikülg</string>
+    <string name="idenfy_identification_results_step_front_document_type_passport_title_v2">Passi näoleht</string>
+    <string name="idenfy_identification_results_step_front_document_type_residence_permit_title_v2">Elamisloa esikülg</string>
+    <string name="idenfy_identification_results_step_passport_cover_title_v2">Passi esikaas</string>
+    <string name="idenfy_identification_results_step_proof_of_address_title_v2">Aadressi tõend</string>
+    <string name="idenfy_identification_results_step_second_proof_of_address_title_v2">Teine aadressi tõend</string>
+    <string name="idenfy_identification_results_success_fragment_description_v2"/>
+    <string name="idenfy_identification_results_success_fragment_title_v2">Tuvastamine õnnestus</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_back_document_photo">Dokumendi tagakülje foto üleslaadimine…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_face_document_photo">Dokumendi näo foto üleslaadimine…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_front_document_photo">Dokumendi esikülje foto üleslaadimine…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_liveness_document_photo">Elavuse kontroll</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_passport_cover_photo">Passi esikaane foto üleslaadimine…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_proof_of_address_photo">Aadressi tõendi foto üleslaadimine…</string>
+    <string name="idenfy_identification_results_title_additional_info_uploading_second_proof_of_address_photo">Aadressi teise tõendi foto üleslaadimine…</string>
+    <string name="idenfy_instructions_driver_license_front_correct_text">Veendu et näitad tuvastamise ajal juhiluba, mitte muud dokumenti.</string>
+    <string name="idenfy_instructions_driver_license_front_correct_title">Näita oma juhiluba</string>
+    <string name="idenfy_instructions_driver_license_front_finger_text">Ära kata oma nägu ega muud dokumendi infot.</string>
+    <string name="idenfy_instructions_driver_license_front_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_driver_license_front_fit_frame_text">Veendu, et juhiloa esikülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_driver_license_front_fit_frame_title">Juhiloa esikülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_driver_license_front_reflection_text">Veendu, et valguspeegeldus või dokumendi hologramm ei kataks nägu ega muud olulist dokumendi infot.</string>
+    <string name="idenfy_instructions_driver_license_front_reflection_title">Valgust ei peegeldu</string>
+    <string name="idenfy_instructions_face_fit_frame_text">Veendu, et sinu nägu mahub valgesse raami.</string>
+    <string name="idenfy_instructions_face_fit_frame_title">Nägu mahub valgesse raami</string>
+    <string name="idenfy_instructions_face_one_face_text">Veendu, et pildil ei oleks teisi nägusid.</string>
+    <string name="idenfy_instructions_face_one_face_title">Nähtav on ainult üks nägu</string>
+    <string name="idenfy_instructions_face_shadow_text">Veendu, et sinu nägu on hästi valgustatud ja sellel ei ole varju.</string>
+    <string name="idenfy_instructions_face_shadow_title">Nägu ei ole kaetud varjuga</string>
+    <string name="idenfy_instructions_face_zoom_text">Veendu, et sinu nägu mahub raami. Pärast selfie tegemist liiguta oma nägu lähemale.</string>
+    <string name="idenfy_instructions_face_zoom_title">Nägu mahub raami</string>
+    <string name="idenfy_instructions_id_back_correct_text">Veendu, et näitad ID-kaardi tagakülge</string>
+    <string name="idenfy_instructions_id_back_correct_title">Näita oma ID-kaardi tagakülge</string>
+    <string name="idenfy_instructions_id_back_finger_text">Ära kata dokumendi infot sõrmega.</string>
+    <string name="idenfy_instructions_id_back_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_id_back_fit_frame_text">Veendu, et ID-kaardi tagakülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_id_back_fit_frame_title">ID-kaardi tagakülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_id_back_mrz_text">Veendu, et sinu dokumendil on MRZ (2 või 3 märgirida). Kui sinu dokumendil puudub masinloetav ala, vali \"MUUD DOCUMENDID\" dokumentide valiku aknas.</string>
+    <string name="idenfy_instructions_id_back_mrz_title">Dokumendil on masinloetav ala</string>
+    <string name="idenfy_instructions_id_front_correct_text">Veendu, et näitad tuvastamise ajal ID-kaarti, mitte muud dokumenti.</string>
+    <string name="idenfy_instructions_id_front_correct_title">Näita oma ID-kaarti</string>
+    <string name="idenfy_instructions_id_front_finger_text">Ära kata oma nägu ega muud dokumendi infot</string>
+    <string name="idenfy_instructions_id_front_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_id_front_fit_frame_text">Veendu, et ID-kaardi esikülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_id_front_fit_frame_title">ID-kaardi esikülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_id_front_reflection_text">Veendu, et valguspeegeldus või dokumendi hologramm ei kataks nägu ega muud olulist dokumendi infot</string>
+    <string name="idenfy_instructions_id_front_reflection_title">Valgus ei peegeldu</string>
+    <string name="idenfy_instructions_other_back_finger_text">Ära kata dokumendi infot sõrmega.</string>
+    <string name="idenfy_instructions_other_back_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_other_back_fit_frame_text">Veendu, et dokumendi tagakülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_other_back_fit_frame_title">Dokumendi tagakülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_other_front_finger_text">Ärä kata oma nägu ega muud dokumendi infot.</string>
+    <string name="idenfy_instructions_other_front_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_other_front_fit_frame_text">Veendu, et dokumendi esikülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_other_front_fit_frame_title">Dokumendi esikülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_other_front_mrz_text">Veendu, et näitad dokumenti, millel ei ole masinloetavat ala.</string>
+    <string name="idenfy_instructions_other_front_mrz_title">Näita oma dokumenti, millel ei ole masinloetavat ala</string>
+    <string name="idenfy_instructions_other_front_reflection_text">Veendu, et valguspeegeldus või dokumendi hologramm ei kataks nägu ega muud olulist dokumendi infot.</string>
+    <string name="idenfy_instructions_other_front_reflection_title">Valgust ei peegeldu</string>
+    <string name="idenfy_instructions_passport_correct_text">Veendu, et näitad tuvastamise ajal passi, mitte muud dokumenti.</string>
+    <string name="idenfy_instructions_passport_correct_title">Näita oma passi</string>
+    <string name="idenfy_instructions_passport_finger_text">Ära kata oma nägu ega muud dokumendi infot</string>
+    <string name="idenfy_instructions_passport_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_passport_fits_frame_text">Veendu, et pass mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_passport_fits_frame_title">Pass mahub valgesse raami</string>
+    <string name="idenfy_instructions_passport_mrz_text">Veendu, et sinu dokumendil on masinloetav ala (2 või 3 märgirida). Kui sinu dokumendil puudub masinloetav ala, vali \"MUUD DOCUMENDID\" dokumentide valiku aknas.</string>
+    <string name="idenfy_instructions_passport_mrz_title">Passil on masinloetav ala</string>
+    <string name="idenfy_instructions_passport_reflection_text">Veendu, et valguspeegeldus või dokumendi hologramm ei kataks nägu ega muud olulist dokumendi infot.</string>
+    <string name="idenfy_instructions_passport_reflection_title">Valgust ei peegeldu</string>
+    <string name="idenfy_instructions_residence_permit_back_correct_text">Veendu, et näitad elamisloa tagakülge.</string>
+    <string name="idenfy_instructions_residence_permit_back_correct_title">Näita oma elamisloa tagakülge</string>
+    <string name="idenfy_instructions_residence_permit_back_finger_text">Ära kata dokumendi infot sõrmega.</string>
+    <string name="idenfy_instructions_residence_permit_back_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_residence_permit_back_fit_frame_text">Veendu, et elamisloa tagakülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_residence_permit_back_fit_frame_title">Elamisloa tagakülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_residence_permit_back_mrz_text">Veendu, et sinu dokumendil on masinloetav ala (2 või 3 märgirida). Kui sinu dokumendil puudub masinloetav ala, vali \"MUUD DOCUMENDID\" dokumentide valiku aknas.</string>
+    <string name="idenfy_instructions_residence_permit_back_mrz_title">Dokumendil on masinloetav ala</string>
+    <string name="idenfy_instructions_residence_permit_front_correct_text">Veendu, et näitad tuvastamise ajal elamisluba, mitte muud dokumenti.</string>
+    <string name="idenfy_instructions_residence_permit_front_correct_title">Näita oma elamisluba</string>
+    <string name="idenfy_instructions_residence_permit_front_finger_text">Ära kata oma nägu ega muud dokumendi infot.</string>
+    <string name="idenfy_instructions_residence_permit_front_finger_title">Sõrm ei kata dokumenti</string>
+    <string name="idenfy_instructions_residence_permit_front_fit_frame_text">Veendu, et elamisloa esikülg mahub valgesse raami ja ei jää raami piiridest välja, ning esitatud dokument ei ole hägune ja on selgesti loetav.</string>
+    <string name="idenfy_instructions_residence_permit_front_fit_frame_title">Elamisloa esikülg mahub valgesse raami</string>
+    <string name="idenfy_instructions_residence_permit_front_reflection_text">Veendu, et valguspeegeldus või dokumendi hologramm ei kataks nägu ega muud olulist dokumendi infot.</string>
+    <string name="idenfy_instructions_residence_permit_front_reflection_title">Valgust ei peegeldu</string>
+    <string name="idenfy_language_selection_name_bg_v2">Български</string>
+    <string name="idenfy_language_selection_name_cs_v2">Čeština</string>
+    <string name="idenfy_language_selection_name_de_v2">Deutsch</string>
+    <string name="idenfy_language_selection_name_ee_v2">Eesti</string>
+    <string name="idenfy_language_selection_name_en_v2">English</string>
+    <string name="idenfy_language_selection_name_es_v2">Español</string>
+    <string name="idenfy_language_selection_name_fr_v2">Français</string>
+    <string name="idenfy_language_selection_name_it_v2">Italiano</string>
+    <string name="idenfy_language_selection_name_lt_v2">Lietuvių</string>
+    <string name="idenfy_language_selection_name_lv_v2">Latviešu</string>
+    <string name="idenfy_language_selection_name_pl_v2">Polski</string>
+    <string name="idenfy_language_selection_name_ro_v2">Română</string>
+    <string name="idenfy_language_selection_name_ru_v2">Pусский</string>
+    <string name="idenfy_language_selection_name_sv_v2">Svenska</string>
+    <string name="idenfy_language_selection_view_information_title_v2">Vali keel</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_continue_button_v2">JÄTKA</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_information_description_v2">Aitäh</string>
+    <string name="idenfy_manual_reviewing_status_approved_view_information_title_v2">Sinu isikusamasuse tuvastamine õnnestus</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_continue_button_v2">JÄTKA</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_description_v2">Me ei saanud sinu isikut kinnitada.</string>
+    <string name="idenfy_manual_reviewing_status_failed_view_information_title_v2">Tuvastamine ebaõnnestus</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_identification_auto_completed_title_v2">Automaatne tehisintellekti kontroll on lõppenud</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_identification_submitted_title_v2">Isikusamasuse tuvastamine esitatud</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_information_description_v2">Tavaliselt kulub isikusamasuse käsitsi kinnitamiseks kuni 20 minutit.</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_information_title_v2">Inim-järelevalve kinnituse ootamine</string>
+    <string name="idenfy_manual_reviewing_status_waiting_view_stop_waiting_button_v2">TAGASI KONTO JUURDE</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_document_v2">Puudutage dokumendi keskosaga telefoni ülaos</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_id_card_v2">Puudutage ID-kaardi keskosaga telefoni ülaosa</string>
+    <string name="idenfy_nfc_reading_view_information_alert_title_passport_v2">Puudutage passi keskosaga telefoni ülaosa</string>
+    <string name="idenfy_nfc_reading_view_information_reading_continue_button_title_v2">CONTINUE</string>
+    <string name="idenfy_nfc_reading_view_information_reading_data_document_image_v2">Reading document image…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_data_document_title_v2">Dokumendi andmete lugemine…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_finished_v2">Dokumendi lugemine lõppenud</string>
+    <string name="idenfy_nfc_reading_view_information_reading_snackbar_title_v2">Palun viige telefon dokumendist eemale!</string>
+    <string name="idenfy_nfc_reading_view_information_reading_started_title_v2">Palun oota hetk…</string>
+    <string name="idenfy_nfc_reading_view_information_reading_status_failed_v2">Oih! Midagi läks valesti.</string>
+    <string name="idenfy_nfc_reading_view_information_reading_status_no_connecton_v2">Connection interrupted. Please move the phone closer!</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_continue_button_title_v2">JÄTKA</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_description_v2">NFC lugemisaeg on aegunud</string>
+    <string name="idenfy_nfc_reading_view_information_reading_time_out_title_v2">Ajalõpp</string>
+    <string name="idenfy_nfc_reading_view_information_title_document_v2">Touch the middle of the document to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_title_id_card_v2">Touch the middle of the ID card to the top of the phone</string>
+    <string name="idenfy_nfc_reading_view_information_title_passport_v2">Touch the middle of the passport to the top of the phone</string>
+    <string name="idenfy_nfc_required_view_information_button_enable_nfc_title_v2">LUBAKE NFC</string>
+    <string name="idenfy_nfc_required_view_information_button_title_v2">JÄTKA</string>
+    <string name="idenfy_nfc_required_view_information_description_v2">Please use a mobile phone with built-in NFC tag reader</string>
+    <string name="idenfy_nfc_required_view_information_enable_nfc_description_v2">Enne jätkamist lubage seadme seadetes NFC</string>
+    <string name="idenfy_nfc_required_view_information_enable_nfc_title_v2">NFC pole lubatud</string>
+    <string name="idenfy_nfc_required_view_information_no_nfc_description_v2">Palun kasutage sisseehitatud NFC-sildilugejaga mobiiltelefoni</string>
+    <string name="idenfy_nfc_required_view_information_no_nfc_title_v2">Teie seadet ei toetata</string>
+    <string name="idenfy_nfc_required_view_information_title_v2">Your device is not supported</string>
+    <string name="idenfy_permission_asks_to_provide_camera_permission_manually">Anna õigused käsitsi</string>
+    <string name="idenfy_provider_login_view_common_information_description_v2">Sisestage oma veebipõhise utiliidi konto sisselogimisandmed</string>
+    <string name="idenfy_provider_login_view_common_information_title_v2">Ühendage oma konto</string>
+    <string name="idenfy_provider_login_view_continue_button_title_v2">JÄTKA</string>
+    <string name="idenfy_provider_login_view_password_hint_title_v2">Parool</string>
+    <string name="idenfy_provider_login_view_username_hint_title_v2">Kasutajanimi</string>
+    <string name="idenfy_provider_selection_common_information_description_v2">Palun valige allolevast loendist oma kommunaalkulude arve väljastaja</string>
+    <string name="idenfy_provider_selection_common_information_title_v2">Palun valige oma pakkuja</string>
+    <string name="idenfy_provider_selection_search_bar_hint_title_v2">Otsige teenusepakkujat…</string>
+    <string name="idenfy_splash_screen_title_v2">Kiire ja usaldusväärne isikusamasuse kinnitamine</string>
+    <string name="idenfy_start_identification_predefined_view_begin_identification_button_v2">Alustame</string>
+    <string name="idenfy_start_identification_predefined_view_information_description_v2">Dokumendi väljastanud riik</string>
+    <string name="idenfy_start_identification_predefined_view_information_title_v2">Alusta isikusamasuse kinnitamist</string>
+    <string name="idenfy_upload_results_view_choose_another_photo_button_title_v2">VALI TEINE</string>
+    <string name="idenfy_upload_results_view_cropping_description_v2">Joonda üleslaaditud foto märgitud alale</string>
+    <string name="idenfy_upload_results_view_document_continue_button_title_v2">JÄTKA</string>
+    <string name="idenfy_upload_results_view_incorrect_mime_type_alert_message_v2">Toetatud failitüübid:</string>
+    <string name="idenfy_upload_results_view_incorrect_mime_type_alert_title_v2">Toetamata failitüüp</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_driver_license_title_v2">Juhiloa tagakülg</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_id_card_title_v2">ID-kaardi tagakülg</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_other_title_v2">Dokumendi tagakülg</string>
+    <string name="idenfy_upload_results_view_information_step_back_document_type_residence_permit_title_v2">Elamisloa tagakülg</string>
+    <string name="idenfy_upload_results_view_information_step_face_title_v2">Kinnita näo pilt</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_driver_license_title_v2">Juhiloa esikülg</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_id_card_title_v2">ID-kaardi esikülg</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_other_title_v2">Dokumendi esikülg</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_passport_cover_title_v2">Passi esikaas</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_passport_title_v2">Passi isikuandmetega lehekülg</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_proof_of_address_title_v2">Aadressi tõend</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_residence_permit_title_v2">Elamisloa esikülg</string>
+    <string name="idenfy_upload_results_view_information_step_front_document_type_second_proof_of_address_title_v2">Teine aadressi tõend</string>
+    <string name="idenfy_upload_results_view_pdf_size_alert_message_v2">Palun valige fail, mille kehtiv suurus ei ületa 5 MB</string>
+    <string name="idenfy_upload_results_view_pdf_size_alert_title_v2">Faili maksimaalne suurus on ületatud</string>
+    <string name="item_view_role_description">Vaheleht</string>
+    <string name="material_clock_toggle_content_description">Valige AM või PM</string>
+    <string name="material_hour_selection">Valige tund</string>
+    <string name="material_hour_suffix">Kell %1$s</string>
+    <string name="material_minute_selection">Minutite valimine</string>
+    <string name="material_minute_suffix">%1$s minutit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Aktiveerige kellaaja sisestamiseks kellarežiim.</string>
+    <string name="material_timepicker_hour">Tunnid</string>
+    <string name="material_timepicker_minute">Minut</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Aja valimine</string>
+    <string name="material_timepicker_text_input_mode_description">Aktiveerige kellaaja sisestamiseks tekstisisestusrežiim.</string>
+    <string name="mtrl_badge_numberless_content_description">Uus märguanne</string>
+    <string name="mtrl_chip_close_icon_content_description">Üksuse %1$s eemaldamine</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Rohkem kui %1$d uut märguannet</string>
+    <string name="mtrl_picker_a11y_next_month">Vaheta järgmisele kuule</string>
+    <string name="mtrl_picker_a11y_prev_month">Vaheta eelmisele kuule</string>
+    <string name="mtrl_picker_announce_current_selection">Praegune valik: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Valige kuupäev</string>
+    <string name="mtrl_picker_date_header_unselected">Valitud kuupäev</string>
+    <string name="mtrl_picker_day_of_week_column_header">Päevade veerg: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Sobimatu vorming.</string>
+    <string name="mtrl_picker_invalid_format_example">Näide: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Kasutage: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Sobimatu vahemik.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Mine aastasse %1$s</string>
+    <string name="mtrl_picker_out_of_range">Vahemikust väljas: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Alguskuupäev – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – lõppkuupäev</string>
+    <string name="mtrl_picker_range_header_selected">%1$s–%2$s</string>
+    <string name="mtrl_picker_range_header_title">Valige vahemik</string>
+    <string name="mtrl_picker_range_header_unselected">Alguskuupäev – lõppkuupäev</string>
+    <string name="mtrl_picker_save">Salvesta</string>
+    <string name="mtrl_picker_text_input_date_hint">Kuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Lõppkuupäev</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Alguskuupäev</string>
+    <string name="mtrl_picker_text_input_day_abbr">p</string>
+    <string name="mtrl_picker_text_input_month_abbr">k</string>
+    <string name="mtrl_picker_text_input_year_abbr">a</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Lülitu kalendrisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Puudutage, et lülituda päeva valimisele</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Lülitu tekstisisestusrežiimile</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Puudutage, et lülituda aasta valimisele</string>
+    <string name="password_toggle_content_description">Parooli kuvamine</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Otsing"</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

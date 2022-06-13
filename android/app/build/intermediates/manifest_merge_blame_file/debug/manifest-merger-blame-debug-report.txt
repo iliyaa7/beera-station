@@ -1,0 +1,269 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.test1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="31" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/iliya/.gradle/caches/transforms-3/6c7e59d111d0c8a795992365934dc34a/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.125.0] /Users/iliya/.gradle/caches/transforms-3/6c7e59d111d0c8a795992365934dc34a/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:12:5-65
+14-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:12:22-62
+15    <uses-permission android:name="android.permission.NFC" />
+15-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:14:5-62
+15-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:14:22-59
+16
+17    <uses-feature
+17-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:16:5-18:36
+18        android:name="android.hardware.camera"
+18-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:17:9-47
+19        android:required="false" />
+19-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:18:9-33
+20    <uses-feature
+20-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:19:5-21:36
+21        android:name="android.hardware.camera.autofocus"
+21-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:20:9-57
+22        android:required="false" />
+22-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:21:9-33
+23    <uses-feature
+23-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:22:5-24:36
+24        android:name="android.hardware.camera.front"
+24-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:23:9-53
+25        android:required="false" />
+25-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:24:9-33
+26    <uses-feature
+26-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:25:5-27:36
+27        android:name="android.hardware.camera.front.autofocus"
+27-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:26:9-63
+28        android:required="false" />
+28-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:27:9-33
+29    <uses-feature
+29-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:28:5-30:36
+30        android:name="android.hardware.nfc"
+30-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:29:9-44
+31        android:required="false" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+31-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:30:9-33
+32    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+33    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+33-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:5-79
+33-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:25:22-76
+34
+35    <application
+35-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:6:5-25:19
+36        android:name="com.test1.MainApplication"
+36-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:7:7-38
+37        android:allowBackup="false"
+37-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:11:7-34
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.6.0] /Users/iliya/.gradle/caches/transforms-3/5d6d3508fe006763b0a5a35b1f40c193/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:hardwareAccelerated="true"
+40-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:28:9-43
+41        android:icon="@mipmap/ic_launcher"
+41-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:9:7-41
+42        android:label="@string/app_name"
+42-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:8:7-39
+43        android:largeHeap="true"
+43-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:29:9-33
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:10:7-52
+45        android:theme="@style/AppTheme"
+45-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:12:7-38
+46        android:usesCleartextTraffic="true" >
+46-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:8:9-44
+47        <activity
+47-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:11:9-111
+48            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+48-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:11:19-83
+49            android:exported="false" />
+49-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/debug/AndroidManifest.xml:11:84-108
+50        <activity
+50-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:13:7-24:18
+51            android:name="com.test1.MainActivity"
+51-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:14:9-37
+52            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+52-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:16:9-118
+53            android:exported="true"
+53-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:19:9-32
+54            android:label="@string/app_name"
+54-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:15:9-41
+55            android:launchMode="singleTask"
+55-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:17:9-40
+56            android:windowSoftInputMode="adjustResize" >
+56-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:18:9-51
+57            <intent-filter>
+57-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:20:9-23:25
+58                <action android:name="android.intent.action.MAIN" />
+58-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:21:13-65
+58-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:21:21-62
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:22:13-73
+60-->/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/src/main/AndroidManifest.xml:22:23-70
+61            </intent-filter>
+62        </activity>
+63
+64        <meta-data
+64-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:33:9-35:36
+65            android:name="com.google.mlkit.vision.DEPENDENCIES"
+65-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:34:13-64
+66            android:value="face" />
+66-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:35:13-33
+67        <meta-data
+67-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:36:9-38:36
+68            android:name="android.nfc.disable_beam_default"
+68-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:37:13-60
+69            android:value="true" />
+69-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:38:13-33
+70        <meta-data
+70-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:39:9-41:105
+71            android:name="io.sentry.dsn"
+71-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:40:13-41
+72            android:value="https://fc47af7c552d49e78bd61e76a49cd92e@o513512.ingest.sentry.io/5656687" />
+72-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:41:13-102
+73
+74        <activity
+74-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:43:9-48:55
+75            android:name="com.idenfy.idenfySdk.core.ui.view.IdenfyMainActivity"
+75-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:44:13-80
+76            android:resizeableActivity="false"
+76-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:45:13-47
+77            android:screenOrientation="portrait"
+77-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:46:13-49
+78            android:theme="@style/IdenfyTheme"
+78-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:47:13-47
+79            android:windowSoftInputMode="adjustPan" />
+79-->[com.github.idenfy:sdk-api:5.4.1] /Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/AndroidManifest.xml:48:13-52
+80
+81        <service
+81-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:9:9-15:19
+82            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+82-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:10:13-91
+83            android:directBootAware="true"
+83-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:17:13-43
+84            android:exported="false" >
+84-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:11:13-37
+85            <meta-data
+85-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:12:13-14:85
+86                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+86-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:13:17-114
+87                android:value="com.google.firebase.components.ComponentRegistrar" />
+87-->[com.google.android.gms:play-services-mlkit-face-detection:16.2.0] /Users/iliya/.gradle/caches/transforms-3/26406177924eeaa0c977b340c7dfc501/transformed/jetified-play-services-mlkit-face-detection-16.2.0/AndroidManifest.xml:14:17-82
+88            <meta-data
+88-->[com.google.mlkit:vision-common:16.5.0] /Users/iliya/.gradle/caches/transforms-3/85e14412b17887a0d5cc6d7b555b8cab/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:12:13-14:85
+89                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+89-->[com.google.mlkit:vision-common:16.5.0] /Users/iliya/.gradle/caches/transforms-3/85e14412b17887a0d5cc6d7b555b8cab/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:13:17-124
+90                android:value="com.google.firebase.components.ComponentRegistrar" />
+90-->[com.google.mlkit:vision-common:16.5.0] /Users/iliya/.gradle/caches/transforms-3/85e14412b17887a0d5cc6d7b555b8cab/transformed/jetified-vision-common-16.5.0/AndroidManifest.xml:14:17-82
+91            <meta-data
+91-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:20:13-22:85
+92                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+92-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:21:17-120
+93                android:value="com.google.firebase.components.ComponentRegistrar" />
+93-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:22:17-82
+94        </service>
+95
+96        <provider
+96-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:9:9-13:38
+97            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+97-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:10:13-78
+98            android:authorities="com.test1.mlkitinitprovider"
+98-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:11:13-69
+99            android:exported="false"
+99-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:12:13-37
+100            android:initOrder="99" />
+100-->[com.google.mlkit:common:17.1.1] /Users/iliya/.gradle/caches/transforms-3/424a04dc4be3e62cf73ed8545bb3c803/transformed/jetified-common-17.1.1/AndroidManifest.xml:13:13-35
+101
+102        <service
+102-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:29:9-35:19
+103            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+103-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:30:13-103
+104            android:exported="false" >
+104-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:31:13-37
+105            <meta-data
+105-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:32:13-34:39
+106                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+106-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:33:17-94
+107                android:value="cct" />
+107-->[com.google.android.datatransport:transport-backend-cct:2.3.3] /Users/iliya/.gradle/caches/transforms-3/1327172a90c1a173b284b86483882648/transformed/jetified-transport-backend-cct-2.3.3/AndroidManifest.xml:34:17-36
+108        </service>
+109        <service
+109-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:26:9-30:19
+110            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+110-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:27:13-117
+111            android:exported="false"
+111-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:28:13-37
+112            android:permission="android.permission.BIND_JOB_SERVICE" >
+112-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:29:13-69
+113        </service>
+114
+115        <receiver
+115-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:32:9-34:40
+116            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+116-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:33:13-132
+117            android:exported="false" />
+117-->[com.google.android.datatransport:transport-runtime:2.2.6] /Users/iliya/.gradle/caches/transforms-3/6dde29b2a1c71b14e5845e6fd0b0fdc9/transformed/jetified-transport-runtime-2.2.6/AndroidManifest.xml:34:13-37
+118
+119        <activity
+119-->[com.google.android.gms:play-services-base:17.6.0] /Users/iliya/.gradle/caches/transforms-3/256ef69d36d8a9000fe2efce30e60ad6/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:23:9-26:75
+120            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+120-->[com.google.android.gms:play-services-base:17.6.0] /Users/iliya/.gradle/caches/transforms-3/256ef69d36d8a9000fe2efce30e60ad6/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:24:13-79
+121            android:exported="false"
+121-->[com.google.android.gms:play-services-base:17.6.0] /Users/iliya/.gradle/caches/transforms-3/256ef69d36d8a9000fe2efce30e60ad6/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:25:13-37
+122            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+122-->[com.google.android.gms:play-services-base:17.6.0] /Users/iliya/.gradle/caches/transforms-3/256ef69d36d8a9000fe2efce30e60ad6/transformed/jetified-play-services-base-17.6.0/AndroidManifest.xml:26:13-72
+123
+124        <meta-data
+124-->[com.google.android.gms:play-services-basement:17.6.0] /Users/iliya/.gradle/caches/transforms-3/e6069aec1ddddc5cf6874770b290ad2b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:23:9-25:69
+125            android:name="com.google.android.gms.version"
+125-->[com.google.android.gms:play-services-basement:17.6.0] /Users/iliya/.gradle/caches/transforms-3/e6069aec1ddddc5cf6874770b290ad2b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:24:13-58
+126            android:value="@integer/google_play_services_version" /> <!-- 'android:authorities' must be unique in the device, across all apps -->
+126-->[com.google.android.gms:play-services-basement:17.6.0] /Users/iliya/.gradle/caches/transforms-3/e6069aec1ddddc5cf6874770b290ad2b/transformed/jetified-play-services-basement-17.6.0/AndroidManifest.xml:25:13-66
+127        <provider
+127-->[io.sentry:sentry-android-core:4.2.0] /Users/iliya/.gradle/caches/transforms-3/528d5d2ac656ab101535d26f26219960/transformed/jetified-sentry-android-core-4.2.0/AndroidManifest.xml:16:9-19:40
+128            android:name="io.sentry.android.core.SentryInitProvider"
+128-->[io.sentry:sentry-android-core:4.2.0] /Users/iliya/.gradle/caches/transforms-3/528d5d2ac656ab101535d26f26219960/transformed/jetified-sentry-android-core-4.2.0/AndroidManifest.xml:17:13-69
+129            android:authorities="com.test1.SentryInitProvider"
+129-->[io.sentry:sentry-android-core:4.2.0] /Users/iliya/.gradle/caches/transforms-3/528d5d2ac656ab101535d26f26219960/transformed/jetified-sentry-android-core-4.2.0/AndroidManifest.xml:18:13-70
+130            android:exported="false" />
+130-->[io.sentry:sentry-android-core:4.2.0] /Users/iliya/.gradle/caches/transforms-3/528d5d2ac656ab101535d26f26219960/transformed/jetified-sentry-android-core-4.2.0/AndroidManifest.xml:19:13-37
+131        <provider
+131-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/iliya/.gradle/caches/transforms-3/512326a32c4ef5cdeb5a96f99474908d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+132            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+132-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/iliya/.gradle/caches/transforms-3/512326a32c4ef5cdeb5a96f99474908d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
+133            android:authorities="com.test1.lifecycle-process"
+133-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/iliya/.gradle/caches/transforms-3/512326a32c4ef5cdeb5a96f99474908d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+134            android:exported="false"
+134-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/iliya/.gradle/caches/transforms-3/512326a32c4ef5cdeb5a96f99474908d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+135            android:multiprocess="true" />
+135-->[androidx.lifecycle:lifecycle-process:2.2.0] /Users/iliya/.gradle/caches/transforms-3/512326a32c4ef5cdeb5a96f99474908d/transformed/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+136
+137        <activity
+137-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:30:9-37:20
+138            android:name="com.facetec.sdk.FaceTecSessionActivity"
+138-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:31:13-66
+139            android:configChanges="orientation|keyboardHidden|screenSize"
+139-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:32:13-74
+140            android:excludeFromRecents="true"
+140-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:33:13-46
+141            android:resizeableActivity="false"
+141-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:34:13-47
+142            android:supportsRtl="true"
+142-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:35:13-39
+143            android:theme="@style/Theme.AppCompat.Translucent" >
+143-->[com.github.idenfy:sdk-facetec:9.1.3] /Users/iliya/.gradle/caches/transforms-3/dc36525c0b14de6bab1f549f70e7277d/transformed/jetified-sdk-facetec-9.1.3/AndroidManifest.xml:36:13-63
+144        </activity>
+145    </application>
+146
+147</manifest>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1662212717/react-native-gradle-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test1.iml" filepath="$PROJECT_DIR$/.idea/modules/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/test1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/test1.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1488944762/test1.idenfy_react-native-sdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1530408285/test1.react-native-community_masked-view.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2097493530/test1.react-native-gesture-handler.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1945600062/test1.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1945600062/test1.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/2002989059/test1.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.unitTest.iml" />
+    </modules>
+  </component>
+</project>
