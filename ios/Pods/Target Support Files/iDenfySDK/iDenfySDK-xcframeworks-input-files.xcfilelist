@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/iDenfySDK/iDenfySDK-xcframeworks.sh
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/idenfyNFCReading.xcframework
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/FaceTecSDK.xcframework
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/iDenfySDK.xcframework
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/IdenfyLiveness.xcframework
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/idenfycore.xcframework
+${PODS_ROOT}/iDenfySDK/IdenfyLiveness/idenfyviews.xcframework

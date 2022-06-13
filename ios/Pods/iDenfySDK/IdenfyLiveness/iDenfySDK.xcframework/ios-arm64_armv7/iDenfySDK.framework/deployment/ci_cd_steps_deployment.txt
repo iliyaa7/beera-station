@@ -1,0 +1,5 @@
+Before commiting you need to check if the idenfySDK Target version and build is incremented by one.
+
+After that make a STAGE_SDK-* Tag. Commit if needed before the tag. Push the updates. Wait for the build result.
+
+If the build is successful, test it locally with using testing branch. If everything is alright, tag it PROD_SDK-* and push new tag. Wait for the deployment.
