@@ -31,6 +31,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/557262811/test1.react-native-screens.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-826432818/test1.stripe_stripe-react-native.unitTest.iml" />
     </modules>
   </component>
 </project>

@@ -130,9 +130,19 @@ def reactNativeArchitectures() {
 }
 
 android {
+     configurations {
+        all*.exclude module: 'conceal'
+        all*.exclude module: 'bcprov-jdk15on'
+    }
     ndkVersion rootProject.ext.ndkVersion
 
     compileSdkVersion rootProject.ext.compileSdkVersion
+
+  
+
+    
+
+
 
     defaultConfig {
         multiDexEnabled true

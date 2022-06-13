@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import com.idenfyreactnative.IdenfyReactNativePackage;
 // @react-native-community/masked-view
 import org.reactnative.maskedview.RNCMaskedViewPackage;
+// @stripe/stripe-react-native
+import com.reactnativestripesdk.StripeSdkPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.RNGestureHandlerPackage;
 // react-native-reanimated
@@ -70,6 +72,7 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new IdenfyReactNativePackage(),
       new RNCMaskedViewPackage(),
+      new StripeSdkPackage(),
       new RNGestureHandlerPackage(),
       new ReanimatedPackage(),
       new SafeAreaContextPackage(),

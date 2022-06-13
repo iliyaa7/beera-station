@@ -4,6 +4,16 @@
             "outputFile": "/Users/iliya/Desktop/Iliya/msapps_projects/beera-station/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
             "map": [
                 {
+                    "source": "/Users/iliya/.gradle/caches/transforms-3/0fe1287b2d11bbb4aa79637aab6001aa/transformed/jetified-payments-core-20.5.0/res/values-xhdpi-v4/values-xhdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "56",
+                        "endOffsets": "107"
+                    }
+                },
+                {
                     "source": "/Users/iliya/.gradle/caches/transforms-3/26477159a12c63c2ea6192c124bab994/transformed/jetified-sdk-api-5.4.1/res/values-xhdpi-v4/values-xhdpi-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -11,6 +21,13 @@
                         "startOffsets": "55,144,232,331,422,506,580,657,757,835",
                         "endColumns": "88,87,98,90,83,73,76,99,77,89",
                         "endOffsets": "139,227,326,417,501,575,652,752,830,920"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "112,201,289,388,479,563,637,714,814,892",
+                        "endColumns": "88,87,98,90,83,73,76,99,77,89",
+                        "endOffsets": "196,284,383,474,558,632,709,809,887,977"
                     }
                 }
             ]

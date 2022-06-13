@@ -344,6 +344,27 @@ PODS:
   - RNScreens (3.13.1):
     - React-Core
     - React-RCTImage
+  - Stripe (22.4.0):
+    - Stripe/Stripe3DS2 (= 22.4.0)
+    - StripeApplePay (= 22.4.0)
+    - StripeCore (= 22.4.0)
+    - StripeUICore (= 22.4.0)
+  - stripe-react-native (0.12.0):
+    - React-Core
+    - Stripe (~> 22.4.0)
+    - StripeFinancialConnections (~> 22.4.0)
+  - Stripe/Stripe3DS2 (22.4.0):
+    - StripeApplePay (= 22.4.0)
+    - StripeCore (= 22.4.0)
+    - StripeUICore (= 22.4.0)
+  - StripeApplePay (22.4.0):
+    - StripeCore (= 22.4.0)
+  - StripeCore (22.4.0)
+  - StripeFinancialConnections (22.4.0):
+    - StripeCore (= 22.4.0)
+    - StripeUICore (= 22.4.0)
+  - StripeUICore (22.4.0):
+    - StripeCore (= 22.4.0)
   - Yoga (1.14.0)
   - ZIPFoundation (0.9.11)
 
@@ -386,6 +407,7 @@ DEPENDENCIES:
   - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
   - RNReanimated (from `../node_modules/react-native-reanimated`)
   - RNScreens (from `../node_modules/react-native-screens`)
+  - "stripe-react-native (from `../node_modules/@stripe/stripe-react-native`)"
   - Yoga (from `../node_modules/react-native/ReactCommon/yoga`)
 
 SPEC REPOS:
@@ -398,6 +420,11 @@ SPEC REPOS:
     - MDFInternationalization
     - MotionAnimator
     - MotionInterchange
+    - Stripe
+    - StripeApplePay
+    - StripeCore
+    - StripeFinancialConnections
+    - StripeUICore
     - ZIPFoundation
 
 EXTERNAL SOURCES:
@@ -473,6 +500,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native-reanimated"
   RNScreens:
     :path: "../node_modules/react-native-screens"
+  stripe-react-native:
+    :path: "../node_modules/@stripe/stripe-react-native"
   Yoga:
     :path: "../node_modules/react-native/ReactCommon/yoga"
 
@@ -521,9 +550,15 @@ SPEC CHECKSUMS:
   RNGestureHandler: 61628a2c859172551aa2100d3e73d1e57878392f
   RNReanimated: 64573e25e078ae6bec03b891586d50b9ec284393
   RNScreens: 40a2cb40a02a609938137a1e0acfbf8fc9eebf19
+  Stripe: a925dfa9a7e51aa8f782f428abc10cb828b45a85
+  stripe-react-native: 5ba7374969691d6371065bb66a9f3a5cdbf1d8e1
+  StripeApplePay: 369857bafe8baf02e31b47478db1574febd2a2f3
+  StripeCore: a94d2823817c97c79fce60884ab9027a2da798c1
+  StripeFinancialConnections: 269658b79f639c2d6b7d513235d469418b04c2dd
+  StripeUICore: a8e24a6c91a5c99075c7a490d45695fb912876e8
   Yoga: 99652481fcd320aefa4a7ef90095b95acd181952
   ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
 
-PODFILE CHECKSUM: ee59b7b6047d63e3199a4c5f91a8abdfe4f9ff76
+PODFILE CHECKSUM: bffac0c18f49c08d736427129ea11bb877aea856
 
 COCOAPODS: 1.11.3

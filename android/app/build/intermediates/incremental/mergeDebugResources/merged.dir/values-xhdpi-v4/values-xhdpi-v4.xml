@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="ciw_stripe_edit_text_size">18sp</dimen>
     <dimen name="idenfy_dimen_camera_photo_result_inspect_title_margin_top">12dp</dimen>
     <dimen name="idenfy_dimen_camera_photo_result_next_step_margin_bottom">16dp</dimen>
     <dimen name="idenfy_dimen_camera_photo_result_question_card_top_title_margin_top">12dp</dimen>

@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { WatingScreen, SuccessScreen, StartScreen} from '../index';
+import { WatingScreen, SuccessScreen, StartScreen, AddPaymentScreen} from '../index';
 
 const Stack = createNativeStackNavigator();
 
@@ -21,6 +21,10 @@ const MyStack = () => {
       <Stack.Screen
         name="Wating"
         component={WatingScreen}
+      />
+      <Stack.Screen
+        name="Payment"
+        component={AddPaymentScreen}
       />
     </Stack.Navigator>
   </NavigationContainer>
