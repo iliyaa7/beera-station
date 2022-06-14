@@ -1,14 +1,14 @@
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { WatingScreen, SuccessScreen, StartScreen, AddPaymentScreen} from '../index';
+import { WatingScreen, SuccessScreen, StartScreen, AddPaymentScreen, ChargeScreen} from '../index';
 
 const Stack = createNativeStackNavigator();
 
 const MyStack = () => {
   return (
     <NavigationContainer>
-    <Stack.Navigator initialRouteName="Home">
+    <Stack.Navigator initialRouteName="Payment">
       <Stack.Screen
         name="Home"
         component={StartScreen}
@@ -25,6 +25,10 @@ const MyStack = () => {
       <Stack.Screen
         name="Payment"
         component={AddPaymentScreen}
+      />
+      <Stack.Screen
+        name="Charge"
+        component={ChargeScreen}
       />
     </Stack.Navigator>
   </NavigationContainer>
