@@ -1,7 +1,7 @@
 import React from "react";
 import { MyStack } from "./src/components";
 import { decode, encode } from "base-64";
-import { StripeProvider, useStripe } from '@stripe/stripe-react-native';
+import { StripeProvider } from '@stripe/stripe-react-native';
 
 
 const App = () => {
@@ -14,35 +14,6 @@ const App = () => {
     global.atob = decode;
   }
 
-  // const { handleURLCallback } = useStripe();
-
-  // const handleDeepLink = useCallback(
-  //   async (url) => {
-  //     if (url && url.includes('safepay')) {
-  //       await handleURLCallback(url);
-  //       // Add extra handling here as you see fit
-  //     }
-  //   },
-  //   [handleURLCallback]
-  // );
-
-  // useEffect(() => {
-  //   const getUrlAsync = async () => {
-  //     const initialUrl = await Linking.getInitialURL();
-  //     handleDeepLink(initialUrl);
-  //   };
-
-  //   getUrlAsync();
-
-  //   const deepLinkListener = Linking.addEventListener(
-  //     'url',
-  //     (event: { url: string }) => {
-  //       handleDeepLink(event.url);
-  //     }
-  //   );
-
-  //   return () => deepLinkListener.remove();
-  // }, [handleDeepLink]);
 
   return (
     <StripeProvider
