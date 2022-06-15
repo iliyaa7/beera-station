@@ -1,6 +1,0 @@
-framework module idenfy_react_native_sdk {
-  umbrella header "idenfy-react-native-sdk-umbrella.h"
-
-  export *
-  module * { export * }
-}

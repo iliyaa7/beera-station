@@ -1,6 +1,0 @@
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyNFCReading.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/FaceTecSDK.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/iDenfySDK.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/IdenfyLiveness.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfycore.framework
-${PODS_XCFRAMEWORKS_BUILD_DIR}/iDenfySDK/iDenfyLiveness/idenfyviews.framework
