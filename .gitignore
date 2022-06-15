@@ -56,9 +56,19 @@ buck-out/
 # Bundle artifact
 *.jsbundle
 
+# Ruby Gems (Bundler)
+vendor
+
+# iOS / CocoaPods
+ios/build/
+ios/Pods/
+ios/Podfile.lock
+rn-tester/Gemfile.lock
+
 # Ruby / CocoaPods
-/ios/Pods
-/vendor/bundle/
+ios/Pods
+
+
 
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
